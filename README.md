@@ -1,2 +1,2 @@
-Intership projects from oasis infobyte
+Intership projects from codsoft
 # codsoft
